@@ -47,4 +47,5 @@ export default async function Home() {
     <section className="section aboutBottom"><div className="container bottomGrid"><div><p className="eyebrow">INFORMACJE</p><h2>Wszystko w jednym miejscu.</h2></div><p className="lead">Ta strona została przygotowana jako lokalna wizytówka Chaty Polskiej w Rawiczu. Dla aktualnych ofert, informacji sieci i materiałów promocyjnych korzystaj również z oficjalnej strony marki.</p></div></section>
 
     <footer><div className="container footerInner"><div><b>CHATA POLSKA</b><span>Rawicz • Spokojna</span></div><div><a href="/admin">Panel właściciela</a><a href="https://www.chatapolska.pl/" target="_blank" rel="noreferrer">Oficjalna strona ↗</a></div></div></footer>
-  </main>
+  </main>;
+}
